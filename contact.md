@@ -14,7 +14,5 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jeffreydahlke/).
 
-Follow me on [Twitter](https://twitter.com/JeffreyDahlke).
-
 ## Resource Repositories
 Download my **R** packages from [GitHub](https://github.com/jadahlke).
