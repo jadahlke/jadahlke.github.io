@@ -7,6 +7,7 @@ description: Connect with Me
 # Connect with Me
 
 ## Email
+<section>
      <form method="POST" action="https://formspree.io/f/xzbndnbg">
        <div class="field">
          <label for="name">Your Name</label>
@@ -24,7 +25,8 @@ description: Connect with Me
          <li><input type="submit" value="Send Email" /></li>
        </ul>
      </form>
-
+</section>section>
+     
 ## Social Media
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jeffreydahlke/).
 
