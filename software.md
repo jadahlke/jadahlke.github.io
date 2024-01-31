@@ -5,7 +5,7 @@ description: My Software Projects
 ---
 
 # My Software Projects
-I produce **R** packages for implementing methods that are useful for social scientists (and sometimes I create software tools [just for fun!](https://CRAN.R-project.org/package=schoenberg)). Below are brief descriptions of my software projects.
+I produce R packages for implementing methods that are useful for social scientists (and sometimes I create software tools [just for fun!](https://CRAN.R-project.org/package=schoenberg)). Below are brief descriptions of my software projects.
 
 ## psychmeta
 The `psychmeta` R package is a comprehensive implementation of the Hunter-Schmidt method of psychometric meta-analysis. It is available from [CRAN](https://CRAN.R-project.org/package=psychmeta) and my [GitHub](https://github.com/jadahlke/psychmeta) account (the latter is always the most current version because I release incremental updates on GitHub between CRAN releases). For an introduction to `psychmeta`, check out the [overview vignette](https://cran.r-project.org/web/packages/psychmeta/vignettes/overview.html). Visit [psychmeta.com/](http://psychmeta.com/) to learn more about `psychmeta`. 
