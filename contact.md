@@ -31,4 +31,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jeffreydahlke/).
 Follow my research on [Google Scholar](https://scholar.google.com/citations?user=9myyxFoAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Jeffrey_Dahlke).
 
 ## Software Resources
-Download my **R** packages from [GitHub](https://github.com/jadahlke).
+Download my R packages from [GitHub](https://github.com/jadahlke).
