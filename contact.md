@@ -15,6 +15,7 @@ description: Connect with Me
     Your email:
     <input type="email" name="email">
   </label>
+  
   <label>
     Your message:
     <textarea name="message"></textarea>
