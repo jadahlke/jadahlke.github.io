@@ -7,7 +7,23 @@ description: Connect with Me
 # Connect with Me
 
 ## Email
-To email me, please use the form at the bottom of the page.
+     <form method="POST" action="https://formspree.io/f/xzbndnbg">
+       <div class="field">
+         <label for="name">Your Name</label>
+         <input type="text" name="name" id="name" />
+       </div>
+       <div class="field">
+         <label for="email">Your Email Address</label>
+         <input type="text" name="email" id="email" />
+       </div>
+       <div class="field">
+         <label for="message">Your Message</label>
+         <textarea name="message" id="message" rows="3"></textarea>
+       </div>
+       <ul class="actions">
+         <li><input type="submit" value="Send Email" /></li>
+       </ul>
+     </form>
 
 ## Social Media
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jeffreydahlke/).
