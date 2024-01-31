@@ -7,8 +7,6 @@ description: Connect with Me
 # Connect with Me
 
 ## Email
-Contact me via email at [{{site.email}}](mailto:{{site.email}}).
-
 <form
   action="https://formspree.io/f/xzbndnbg"
   method="POST"
