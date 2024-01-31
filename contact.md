@@ -25,7 +25,7 @@ description: Connect with Me
          <li><input type="submit" value="Send Email" /></li>
        </ul>
      </form>
-</section>section>
+</section>
      
 ## Social Media
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jeffreydahlke/).
